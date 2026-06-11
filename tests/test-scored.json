@@ -1,0 +1,200 @@
+{
+  "projects": [
+    {
+      "topicId": "201",
+      "title": "AI智能编程助手-CodeGenius",
+      "rawText": "一个基于大语言模型的智能编程助手，支持代码自动补全、实时bug检测、代码优化建议和文档自动生成。采用最新的AI技术，集成了GPT-4、Claude等多个主流模型。支持VS Code和JetBrains全家桶插件。目前已经有5000+开发者在日常使用，社区反馈积极。",
+      "classification": {"productType": "AI工具", "domain": "AI编程/开发"},
+      "scores": {
+        "functionality": 8.2,
+        "innovation": 7.5,
+        "ux": 5.5,
+        "visual": 6.0,
+        "techDifficulty": 7.5,
+        "practicality": 8.0
+      },
+      "avgScore": 7.12,
+      "qualityGrade": "A",
+      "strengths": ["功能完整度高", "描述详尽", "技术栈成熟"],
+      "weaknesses": ["交互设计较薄弱"],
+      "votes": 120,
+      "imageCount": 8
+    },
+    {
+      "topicId": "202",
+      "title": "桌面解谜 - DesktopQuest",
+      "rawText": "把Windows桌面变成了一个沉浸式解谜场景，每个图标、每个窗口都可能是线索。玩家需要在熟悉的桌面环境中寻找隐藏的谜题，解开层层关卡。创新的gameplay设计，打破了传统游戏的边界感，让日常使用的桌面成为游戏世界的一部分。",
+      "classification": {"productType": "游戏", "domain": "AI游戏/娱乐"},
+      "scores": {
+        "functionality": 6.5,
+        "innovation": 9.2,
+        "ux": 7.0,
+        "visual": 8.5,
+        "techDifficulty": 7.0,
+        "practicality": 4.0
+      },
+      "avgScore": 7.03,
+      "qualityGrade": "A",
+      "strengths": ["创新性极高", "视觉设计精美"],
+      "weaknesses": ["实用性较弱"],
+      "votes": 85,
+      "imageCount": 18
+    },
+    {
+      "topicId": "203",
+      "title": "智能学习助手 - StudyMate",
+      "rawText": "帮助学生自动生成个性化学习计划和练习题目。支持数学、物理、编程、英语等多学科，覆盖从初中到大学的不同难度级别。可以根据学生的学习进度和薄弱环节自动调整题目难度，是真正的因材施教AI助手。",
+      "classification": {"productType": "AI工具", "domain": "AI教育/学习"},
+      "scores": {
+        "functionality": 6.0,
+        "innovation": 5.5,
+        "ux": 5.0,
+        "visual": 4.5,
+        "techDifficulty": 4.0,
+        "practicality": 7.5
+      },
+      "avgScore": 5.42,
+      "qualityGrade": "B",
+      "strengths": ["实用性好", "教育刚需"],
+      "weaknesses": ["技术实现简单", "视觉设计基础"],
+      "votes": 15,
+      "imageCount": 3
+    },
+    {
+      "topicId": "204",
+      "title": "智能简历生成器 - ResumeAI",
+      "rawText": "输入基本信息，AI自动生成专业简历。支持多种行业模板和排版格式，可以导出高质量PDF和Word文档。内置AI优化建议功能和ATS（Applicant Tracking System）兼容性检查，帮助求职者通过机器筛选。",
+      "classification": {"productType": "AI工具", "domain": "AI效率/办公"},
+      "scores": {
+        "functionality": 7.0,
+        "innovation": 4.0,
+        "ux": 8.0,
+        "visual": 7.5,
+        "techDifficulty": 3.5,
+        "practicality": 9.0
+      },
+      "avgScore": 6.50,
+      "qualityGrade": "A",
+      "strengths": ["用户体验极佳", "实用价值高"],
+      "weaknesses": ["创新不足", "技术门槛低"],
+      "votes": 200,
+      "imageCount": 12
+    },
+    {
+      "topicId": "205",
+      "title": "简单计算器",
+      "rawText": "一个基础的计算器应用，支持加减乘除运算。",
+      "classification": {"productType": "工具", "domain": "通用工具"},
+      "scores": {
+        "functionality": 2.0,
+        "innovation": 1.5,
+        "ux": 3.0,
+        "visual": 2.5,
+        "techDifficulty": 1.0,
+        "practicality": 5.0
+      },
+      "avgScore": 2.50,
+      "qualityGrade": "C",
+      "strengths": ["简单直接"],
+      "weaknesses": ["功能单一", "无创新", "技术实现简单"],
+      "votes": 2,
+      "imageCount": 1
+    },
+    {
+      "topicId": "206",
+      "title": "AI商业数据分析平台 - DataBrain",
+      "rawText": "一站式AI数据分析平台，支持Excel/CSV/SQL多种数据源导入，自动生成交互式图表和智能洞察报告。内置异常检测、趋势预测、相关性分析等高级分析模块。面向中小企业，零代码操作，降低数据分析门槛。",
+      "classification": {"productType": "AI工具", "domain": "AI数据分析"},
+      "scores": {
+        "functionality": 8.5,
+        "innovation": 7.8,
+        "ux": 8.0,
+        "visual": 8.2,
+        "techDifficulty": 8.0,
+        "practicality": 8.8
+      },
+      "avgScore": 8.22,
+      "qualityGrade": "S",
+      "strengths": ["功能全面"], "weaknesses": [],
+      "votes": 310,
+      "imageCount": 25
+    },
+    {
+      "topicId": "207",
+      "title": "AI语音助手 - VoiceMate",
+      "rawText": "智能语音助手，支持自然语言对话、语音转文字、文字转语音、多语言实时翻译。采用最新的语音识别和合成技术，延迟低至200ms。支持自定义唤醒词和语音指令，可扩展到智能家居控制场景。",
+      "classification": {"productType": "AI工具", "domain": "AI对话/聊天"},
+      "scores": {
+        "functionality": 7.5,
+        "innovation": 6.5,
+        "ux": 7.8,
+        "visual": 6.2,
+        "techDifficulty": 8.5,
+        "practicality": 7.0
+      },
+      "avgScore": 7.25,
+      "qualityGrade": "A",
+      "strengths": ["技术难度高"], "weaknesses": ["视觉设计一般"],
+      "votes": 68,
+      "imageCount": 6
+    },
+    {
+      "topicId": "208",
+      "title": "AI音乐创作助手 - MelodyMaker",
+      "rawText": "AI驱动的音乐创作工具，支持旋律生成、和弦编排、风格转换、自动混音等功能。内置多种音乐风格模板（流行、古典、电子、爵士等），适合音乐制作人和内容创作者使用。支持MIDI导出和专业DAW软件集成。",
+      "classification": {"productType": "AI工具", "domain": "AI音乐/音频"},
+      "scores": {
+        "functionality": 7.0,
+        "innovation": 8.0,
+        "ux": 6.5,
+        "visual": 7.5,
+        "techDifficulty": 9.0,
+        "practicality": 5.5
+      },
+      "avgScore": 7.25,
+      "qualityGrade": "A",
+      "strengths": ["技术难度极高", "创新性强", "视觉出色"],
+      "weaknesses": ["实用性待验证"],
+      "votes": 95,
+      "imageCount": 15
+    },
+    {
+      "topicId": "209",
+      "title": "AI视频剪辑工具 - ClipBoost",
+      "rawText": "智能视频剪辑工具，支持自动剪辑、场景检测、智能字幕生成、AI配音等功能。一键生成短视频和长视频两种格式，适配抖音、B站、YouTube等主流平台。特别适合自媒体创作者和视频营销团队。",
+      "classification": {"productType": "AI工具", "domain": "AI视频/动画"},
+      "scores": {
+        "functionality": 7.2,
+        "innovation": 7.0,
+        "ux": 7.5,
+        "visual": 7.8,
+        "techDifficulty": 7.5,
+        "practicality": 8.5
+      },
+      "avgScore": 7.58,
+      "qualityGrade": "A",
+      "strengths": ["实用价值高"], "weaknesses": [],
+      "votes": 180,
+      "imageCount": 10
+    },
+    {
+      "topicId": "210",
+      "title": "AI绘图助手 - ArtGenius",
+      "rawText": "基于Stable Diffusion和DALL-E的AI绘图工具，支持文生图、图生图、风格迁移、局部重绘等功能。内置200+预设风格和高级参数调节面板，支持4K超清分辨率输出。适合设计师、插画师和内容创作者。",
+      "classification": {"productType": "AI工具", "domain": "AI图像/设计"},
+      "scores": {
+        "functionality": 8.0,
+        "innovation": 7.2,
+        "ux": 6.8,
+        "visual": 9.0,
+        "techDifficulty": 7.8,
+        "practicality": 7.5
+      },
+      "avgScore": 7.72,
+      "qualityGrade": "A",
+      "strengths": ["视觉设计顶级", "功能完整"], "weaknesses": ["UX可优化"],
+      "votes": 250,
+      "imageCount": 20
+    }
+  ]
+}
